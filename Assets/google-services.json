@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529022642999",
+    "firebase_url": "https://unityfirebase2021-default-rtdb.firebaseio.com",
+    "project_id": "unityfirebase2021",
+    "storage_bucket": "unityfirebase2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529022642999:android:9e1b726444e93c2c6d08b2",
+        "android_client_info": {
+          "package_name": "Scholastica.FirebaseInventorySample.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529022642999-l4guefa42dman10bqs8uhhfst4kkqhc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxO7NDNjK44tr9Q2-wU-_JtTs8_d5NCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529022642999-l4guefa42dman10bqs8uhhfst4kkqhc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
